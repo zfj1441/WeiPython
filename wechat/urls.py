@@ -9,11 +9,10 @@
 # :copyright: (c) 2015 by Pegasus Wang.
 # :license: MIT, see LICENSE for more details.
 """
-from django.conf.urls import patterns, url
+from django.conf.urls import url
 from django.views.decorators.csrf import csrf_exempt
 from wechat import views
 
-
-urlpatterns = patterns('',
+urlpatterns = [
     url(r'^$', csrf_exempt(views.WechatInterfaceView.as_view())),
-)
+]

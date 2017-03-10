@@ -20,10 +20,11 @@ def checkSignature(request):
     :param request: get method
     :return: if success return True else False
     """
+    # print request.GET
     signature = request.GET.get(u'signature', None)
     timestamp = request.GET.get(u'timestamp', None)
     nonce = request.GET.get(u'nonce', None)
-    token = u'pegasuswang'    # your wechat token
+    token = u'weixinApi'  # your wechat token
 
     tmplist = [token, timestamp, nonce]
     tmplist.sort()

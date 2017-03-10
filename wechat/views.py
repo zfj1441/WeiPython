@@ -22,6 +22,8 @@ class WechatInterfaceView(View):
         echostr = request.GET.get(u'echostr', None)
         if checkSignature(request):
             return HttpResponse(echostr)
+        else:
+            return HttpResponse("")
 
     def post(self, request):
         return HttpResponse(WechatService.processRequest(request))
