@@ -16,7 +16,7 @@ import urllib
 import urllib2
 
 from wechatUtil import MessageUtil
-from wechatReply import TextReply
+from wechatReply import *
 
 class RobotService(object):
     """Auto reply robot service"""
@@ -29,8 +29,8 @@ class RobotService(object):
         data = urllib.urlencode(query)
         req = urllib2.Request(RobotService.url, data)
         f = urllib2.urlopen(req).read()
-        return json.loads(f).get('text').replace('<br>', '\n')
-        #return json.loads(f).get('text')
+        # return json.loads(f).get('text').replace('<br>', '\n')
+        return json.loads(f)
 
 
 class WechatService(object):
@@ -57,8 +57,63 @@ class WechatService(object):
 
         if msgType == MessageUtil.REQ_MESSAGE_TYPE_TEXT:
             content = requestMap.get('Content').decode('utf-8')    # note: decode first
-            #respContent = u'您发送的是文本消息:' + content
-            respContent = RobotService.auto_reply(content)
+            ret = RobotService.auto_reply(content)
+            if ret.get('code') == 100000:
+                retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_TEXT)
+                retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_TEXT)
+                retobj.setContent(ret.get('text'))
+            elif ret.get('code') == 200000:
+                retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                aas = []
+                a = Article()
+                a.setTitle('test')
+                a.setDescription('test')
+                a.setUrl(ret.get('url'))
+                a.setPicUrl(
+                    u'http://images.cnitblog.com/blog/370046/201310/07160044-e2bf032c27f94f778132cb4a9e06431a.png')
+                aas.append(a)
+                retobj.setArticleCount(len(aas))
+                retobj.setArticles(aas)
+            elif ret.get('code') == 302000:
+                retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                aas = []
+                maxtime = 5
+                for new in ret.get('list'):
+                    a = Article()
+                    a.setTitle(new.get('article'))
+                    a.setUrl(new.get('detailurl'))
+                    a.setPicUrl(new.get('icon'))
+                    aas.append(a)
+                    if maxtime <= 0:
+                        break
+                    else:
+                        maxtime = maxtime - 1
+                retobj.setArticleCount(len(aas))
+                retobj.setArticles(aas)
+            elif ret.get('code') == 308000:
+                retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_NEWS)
+                aas = []
+                maxtime = 5
+                for new in ret.get('list'):
+                    a = Article()
+                    a.setTitle(new.get('name'))
+                    a.setDescription(new.get('info'))
+                    a.setUrl(new.get('detailurl'))
+                    a.setPicUrl(new.get('icon'))
+                    aas.append(a)
+                    if maxtime <= 0:
+                        break
+                    else:
+                        maxtime = maxtime - 1
+                retobj.setArticleCount(len(aas))
+                retobj.setArticles(aas)
+            else:
+                retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_TEXT)
+                retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_TEXT)
+                retobj.setContent(ret.get('text'))
         elif msgType == MessageUtil.REQ_MESSAGE_TYPE_IMAGE:
             respContent = u'您发送的是图片消息！'
         elif msgType == MessageUtil.REQ_MESSAGE_TYPE_VOICE:
@@ -86,9 +141,14 @@ class WechatService(object):
                 # TODO
                 pass
 
-        textReply.setContent(respContent)
-        respXml = MessageUtil.class2xml(textReply)
-
+        if msgType == MessageUtil.REQ_MESSAGE_TYPE_TEXT:
+            retobj.setToUserName(fromUserName)
+            retobj.setFromUserName(toUserName)
+            retobj.setCreateTime(time.time())
+            respXml = MessageUtil.class2xml(retobj)
+        else:
+            textReply.setContent(respContent)
+            respXml = MessageUtil.class2xml(textReply)
         return respXml
 
 

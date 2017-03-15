@@ -9,7 +9,7 @@
 # :copyright: (c) 2015 by Pegasus Wang.
 # :license: MIT, see LICENSE for more details.
 """
-
+from wechatUtil import MessageUtil
 
 class BaseReply(object):
     """base reply message class"""
@@ -243,3 +243,22 @@ class NewsReply(BaseReply):
 
     def setArticles(self, articles):
         self.Articles = articles
+
+
+class repFactory():
+    @staticmethod
+    def getRetObj(msgType):
+        if msgType == MessageUtil.RESP_MESSAGE_TYPE_TEXT:
+            return TextReply()
+        elif msgType == MessageUtil.RESP_MESSAGE_TYPE_IMAGE:
+            return ImageReply()
+        elif msgType == MessageUtil.RESP_MESSAGE_TYPE_VOICE:
+            return VoiceReply()
+        elif msgType == MessageUtil.RESP_MESSAGE_TYPE_VIDEO:
+            return VideoReply()
+        elif msgType == MessageUtil.RESP_MESSAGE_TYPE_MUSIC:
+            return MusicReply()
+        elif msgType == MessageUtil.RESP_MESSAGE_TYPE_NEWS:
+            return NewsReply()
+        else:
+            return TextReply()

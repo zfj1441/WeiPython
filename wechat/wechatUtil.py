@@ -91,13 +91,16 @@ class MessageUtil(object):
         """
         root = etree.Element(u'xml')
         for key, value in vars(obj).items():
+            print key, value
             if key in MessageUtil.MESSAGETYPE:
                 tmproot = etree.SubElement(root, key)
                 if key == u'Articles':    # solve Article, it's special
                     for eachArticle in value:
-                        etree.SubElement(tmproot, u'item')
+                        print eachArticle
+                        itemroot = etree.SubElement(tmproot, u'item')
                         for tmpkey, tmpvalue in vars(eachArticle).items():
-                            tmpkey_ele = etree.SubElement(tmproot, tmpkey)
+                            print tmpkey, tmpvalue
+                            tmpkey_ele = etree.SubElement(itemroot, tmpkey)
                             tmpkey_ele.text = etree.CDATA(unicode(tmpvalue))
                 else:
                     for tmpkey, tmpvalue in vars(obj.__getattribute__(key)).items():

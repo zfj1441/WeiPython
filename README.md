@@ -8,4 +8,17 @@ python2.7+django1.4。
 - Write your own processRequest in wechatService.py
 - upload your code to sae or bae server.
 
+###ChangeLog
+20170316  
+1、修改class2xml中组织xml错误  
+2、新增返回对象工厂类repFactory  
+3、增加tuling返回图文消息
+
+20170311  
+修改部分BUG
+
+###remark
+runcode:python manage.py runserver 0.0.0.0:8000
+
 ###[Tutorial](http://ningning.today/2015/02/21/python/django-python%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E4%B9%8B%E4%B8%80%EF%BC%8D%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/)
+
