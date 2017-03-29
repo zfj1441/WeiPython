@@ -15,4 +15,5 @@ urlpatterns = [
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
     url(r'^wechat/*', include('wechat.urls', namespace='wechat')),
+    url(r'^api/*', include('server.urls', namespace='api')),
 ]
