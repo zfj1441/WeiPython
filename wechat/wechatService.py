@@ -17,11 +17,13 @@ import urllib2
 
 from wechatUtil import MessageUtil
 from wechatReply import *
+from dbTools import *
 
 class RobotService(object):
     """Auto reply robot service"""
     KEY = 'd92d20bc1d8bb3cff585bf746603b2a9'
     url = 'http://www.tuling123.com/openapi/api'
+
     @staticmethod
     def auto_reply(req_info):
         query = {'key': RobotService.KEY, 'info': req_info.encode('utf-8')}
@@ -57,7 +59,17 @@ class WechatService(object):
 
         if msgType == MessageUtil.REQ_MESSAGE_TYPE_TEXT:
             content = requestMap.get('Content').decode('utf-8')    # note: decode first
-            ret = RobotService.auto_reply(content)
+            # ret = RobotService.auto_reply(content)
+            # mycmd
+            if content.split(':')[0] in dbTools.MYCMD_TYPE:
+                ret = {}
+                # only return text type msg
+                ret.setdefault('code', '100000')
+                msg = dbTools.getMsgByMobile(str(content.split(':')[1]))
+                ret.setdefault('text', msg)
+            else:
+                ret = RobotService.auto_reply(content)
+            # end
             if ret.get('code') == 100000:
                 retobj = repFactory.getRetObj(MessageUtil.RESP_MESSAGE_TYPE_TEXT)
                 retobj.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_TEXT)

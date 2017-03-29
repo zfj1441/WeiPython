@@ -9,6 +9,10 @@ python2.7+django1.4。
 - upload your code to sae or bae server.
 
 ###ChangeLog
+20170329  
+1、增加server应用，对外提供api  
+2、增加微信命令模式(查询远端数据库)
+
 20170316  
 1、修改class2xml中组织xml错误  
 2、新增返回对象工厂类repFactory  
