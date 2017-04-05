@@ -4,6 +4,7 @@ from django.http import HttpResponse
 from django.views.generic.base import View
 import random
 from django.http import JsonResponse
+from django.shortcuts import render_to_response
 
 
 # Create your views here.
@@ -44,3 +45,11 @@ def ss(request):
     data = cur.fetchone()
     cur.close()
     return JsonResponse(data)
+
+
+def page_not_found(request):
+    return render_to_response("404.html")
+
+
+def page_error(request):
+    return render_to_response("404.html")

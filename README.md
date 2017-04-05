@@ -9,6 +9,10 @@ python2.7+django1.4。
 - upload your code to sae or bae server.
 
 ###ChangeLog
+20170405  
+1、使用新版django版本重新部署  
+2、增加404.html 500.html及相关解析  
+
 20170329  
 1、增加server应用，对外提供api  
 2、增加微信命令模式(查询远端数据库)
