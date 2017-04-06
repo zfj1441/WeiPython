@@ -23,6 +23,7 @@ handler500 = views.page_error
 
 urlpatterns = [
     # url(r'^admin/', admin.site.urls),
+    url(r'^$', views.index_page, name='index'),
     url(r'^wechat/*', include('wechat.urls', namespace='wechat')),
     url(r'^api/*', include('server.urls', namespace='api')),
 ]

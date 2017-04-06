@@ -10,7 +10,7 @@ python2.7+django1.4。
 
 ###ChangeLog
 20170405  
-1、使用新版django版本重新部署  
+1、使用新版django1.10.6版本重新部署  
 2、增加404.html 500.html及相关解析  
 3、tools增加解二维码功能
 
