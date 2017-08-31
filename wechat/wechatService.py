@@ -83,7 +83,7 @@ class WechatService(object):
                 a.setDescription('test')
                 a.setUrl(ret.get('url'))
                 a.setPicUrl(
-                    u'http://images.cnitblog.com/blog/370046/201310/07160044-e2bf032c27f94f778132cb4a9e06431a.png')
+                    u'http://img.cnitblog.com/blog/370046/201310/07160044-e2bf032c27f94f778132cb4a9e06431a.png')
                 aas.append(a)
                 retobj.setArticleCount(len(aas))
                 retobj.setArticles(aas)

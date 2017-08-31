@@ -17,6 +17,9 @@ from django.conf.urls import include, url
 # from django.contrib import admin
 from django.conf.urls import handler404, handler500
 import server.views as views
+# for static
+from django.conf import settings
+from django.conf.urls.static import static
 
 handler404 = views.page_not_found
 handler500 = views.page_error
@@ -26,4 +29,4 @@ urlpatterns = [
     url(r'^$', views.index_page, name='index'),
     url(r'^wechat/*', include('wechat.urls', namespace='wechat')),
     url(r'^api/*', include('server.urls', namespace='api')),
-]
+              ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

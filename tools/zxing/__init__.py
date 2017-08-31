@@ -2,7 +2,7 @@
 #
 #  zxing.py -- a quick and dirty wrapper for zxing for python
 #
-#  this allows you to send images and get back data from the ZXing
+#  this allows you to send img and get back data from the ZXing
 #  library:  http://code.google.com/p/zxing/
 #
 #  by default, it will expect to be run from the zxing source code directory
