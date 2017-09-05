@@ -91,7 +91,7 @@ class MessageUtil(object):
         """
         root = etree.Element(u'xml')
         for key, value in vars(obj).items():
-            print key, value
+            #            print key, value
             if key in MessageUtil.MESSAGETYPE:
                 tmproot = etree.SubElement(root, key)
                 if key == u'Articles':    # solve Article, it's special

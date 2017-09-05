@@ -1,0 +1,527 @@
+Thu, 13 Jul 2017 03:06:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 03:06:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:25 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 03:06:30 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 03:06:30 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 03:06:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:36 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 03:06:41 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 03:06:44 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:48 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:49 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:50 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:52 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:53 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 03:06:59 spyder4ss.py [line:165] INFO 执行脚本总用时 39.7809998989 秒
+Thu, 13 Jul 2017 04:58:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 04:58:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 04:58:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 04:58:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 04:58:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 04:58:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 04:58:48 spyder4ss.py [line:165] INFO 执行脚本总用时 28.5940001011 秒
+Thu, 13 Jul 2017 05:54:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 05:54:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 05:54:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 05:54:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 05:54:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 05:54:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:42 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 05:54:48 spyder4ss.py [line:165] INFO 执行脚本总用时 28.9219999313 秒
+Thu, 13 Jul 2017 06:50:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 06:50:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 06:50:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 06:50:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 06:50:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 06:50:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 06:50:47 spyder4ss.py [line:165] INFO 执行脚本总用时 28.0 秒
+Thu, 13 Jul 2017 07:46:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 07:46:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 07:46:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 07:46:26 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:26 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 07:46:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 07:46:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:42 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 07:46:48 spyder4ss.py [line:165] INFO 执行脚本总用时 29.4059998989 秒
+Thu, 13 Jul 2017 08:42:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 08:42:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 08:42:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 08:42:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 08:42:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 08:42:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 08:42:47 spyder4ss.py [line:165] INFO 执行脚本总用时 28.3280000687 秒
+Thu, 13 Jul 2017 09:38:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 09:38:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 09:38:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 09:38:26 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 09:38:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 09:38:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:42 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 09:38:48 spyder4ss.py [line:165] INFO 执行脚本总用时 28.7809998989 秒
+Thu, 13 Jul 2017 10:34:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 10:34:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 10:34:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 10:34:26 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:26 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 10:34:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 10:34:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:42 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 10:34:48 spyder4ss.py [line:165] INFO 执行脚本总用时 29.015999794 秒
+Thu, 13 Jul 2017 11:30:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 11:30:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:30:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 11:30:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 11:31:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 11:31:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 11:31:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 11:31:47 spyder4ss.py [line:165] INFO 执行脚本总用时 87.859000206 秒
+Thu, 13 Jul 2017 12:26:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 12:26:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:26:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 12:26:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 12:27:26 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 12:27:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 12:27:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:42 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 12:27:48 spyder4ss.py [line:165] INFO 执行脚本总用时 89.2189998627 秒
+Thu, 13 Jul 2017 13:22:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 13:22:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:22:41 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 13:22:46 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 13:23:46 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:51 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:52 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 13:23:57 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 13:23:57 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:23:58 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:23:59 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:24:00 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:24:01 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:24:02 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 13:24:08 spyder4ss.py [line:165] INFO 执行脚本总用时 109.484000206 秒
+Thu, 13 Jul 2017 14:18:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 14:18:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 14:19:28 spyder4ss.py [line:158] ERROR 异常:[https://freessr.xyz/][("bad handshake: SysCallError(10054, 'WSAECONNRESET')",)]
+Thu, 13 Jul 2017 14:19:33 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 14:20:33 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 14:20:38 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:39 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 14:20:44 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 14:20:44 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:45 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:47 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:48 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:49 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:50 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 14:20:56 spyder4ss.py [line:165] INFO 执行脚本总用时 157.030999899 秒
+Thu, 13 Jul 2017 15:14:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 15:14:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 15:14:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 15:14:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:25 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:31 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 15:14:36 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 15:14:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 15:14:47 spyder4ss.py [line:165] INFO 执行脚本总用时 28.5629999638 秒
+Thu, 13 Jul 2017 16:10:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 16:10:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 16:10:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 16:10:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 16:10:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 16:10:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 16:10:47 spyder4ss.py [line:165] INFO 执行脚本总用时 28.2190001011 秒
+Thu, 13 Jul 2017 17:06:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 17:06:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:06:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 17:06:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 17:07:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 17:07:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 17:07:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:36 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 17:07:47 spyder4ss.py [line:165] INFO 执行脚本总用时 87.7189998627 秒
+Thu, 13 Jul 2017 18:02:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 18:02:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:02:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 18:02:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 18:03:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:03:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 18:03:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:03:47 spyder4ss.py [line:165] INFO 执行脚本总用时 88.0939998627 秒
+Thu, 13 Jul 2017 18:58:19 spyder4ss.py [line:139] INFO start run getss()
+Thu, 13 Jul 2017 18:58:19 spyder4ss.py [line:145] INFO 开发扫描网站 [https://freessr.xyz/]
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:58:20 spyder4ss.py [line:103] INFO not match
+Thu, 13 Jul 2017 18:58:25 spyder4ss.py [line:145] INFO 开发扫描网站 [https://www.shadowsocksgo.com/page/testss.html]
+Thu, 13 Jul 2017 18:59:25 spyder4ss.py [line:158] ERROR 异常:[https://www.shadowsocksgo.com/page/testss.html][("bad handshake: SysCallError(-1, 'Unexpected EOF')",)]
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:145] INFO 开发扫描网站 [http://ss.ishadowx.com/]
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:30 spyder4ss.py [line:127] INFO 本次采用默认方法(正则表达式)解析ss信息
+Thu, 13 Jul 2017 18:59:35 spyder4ss.py [line:145] INFO 开发扫描网站 [http://freess.org/#portfolio-preview]
+Thu, 13 Jul 2017 18:59:35 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:37 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:38 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:39 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:40 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:41 spyder4ss.py [line:122] INFO 本次采用自定义方法[Z1GetSS]解析ss信息
+Thu, 13 Jul 2017 18:59:47 spyder4ss.py [line:165] INFO 执行脚本总用时 88.1870000362 秒

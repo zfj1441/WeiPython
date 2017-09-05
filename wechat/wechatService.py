@@ -61,7 +61,7 @@ class WechatService(object):
             content = requestMap.get('Content').decode('utf-8')    # note: decode first
             # ret = RobotService.auto_reply(content)
             # mycmd
-            if content.split(':')[0] in dbTools.MYCMD_TYPE:
+            if content.split(':')[0] in dbTools.MYCMD_TYPE and len(content.split(':')) >= 2:
                 ret = {}
                 # only return text type msg
                 ret.setdefault('code', '100000')
@@ -83,7 +83,7 @@ class WechatService(object):
                 a.setDescription('test')
                 a.setUrl(ret.get('url'))
                 a.setPicUrl(
-                    u'http://img.cnitblog.com/blog/370046/201310/07160044-e2bf032c27f94f778132cb4a9e06431a.png')
+                    u'http://images.cnitblog.com/blog/370046/201310/07160044-e2bf032c27f94f778132cb4a9e06431a.png')
                 aas.append(a)
                 retobj.setArticleCount(len(aas))
                 retobj.setArticles(aas)
@@ -139,8 +139,8 @@ class WechatService(object):
         elif msgType == MessageUtil.REQ_MESSAGE_TYPE_EVENT:
             eventType = requestMap.get(u'Event')
             if eventType == MessageUtil.EVENT_TYPE_SUBSCRIBE:
-                respContent = u'^_^谢谢您的关注，本公众号由王宁宁开发(python2.7+django1.4),如果你有兴趣继续开发，' \
-                              u'可以联系我，就当打发时间了.'
+                respContent = u'^_^谢谢您的关注，本公众号由vr7jj基于WeiPython开发。如果你有兴趣继续开发，' \
+                              u'，源码请联系:vr7jj2016@163.com.'
             elif eventType == MessageUtil.EVENT_TYPE_UNSUBSCRIBE:
                 pass
             elif eventType == MessageUtil.EVENT_TYPE_SCAN:
